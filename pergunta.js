@@ -20,3 +20,4 @@ criaCartao(
     'Disney',
     'Porque Rapunzel não podia sair da torre?',
     'Por conta de seu cabelo que era magíco'
+)
