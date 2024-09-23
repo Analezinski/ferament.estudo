@@ -1,13 +1,13 @@
 criaCartao(
     'Disney',
     'Tem quantos anoẽs em Branca de Neve?',
-    'A sete anoẽs'
+    'A sete anoẽs em Branca de Neve'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Disney',
+    'Aonde fica o parque original da Disney?',
+    'Fica em Anaheim,na califórnia'
 )
 
 criaCartao(
