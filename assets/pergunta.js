@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Disney',
+    'Tem quantos anoẽs em Branca de Neve?',
+    'A sete anoẽs'
 )
 
 criaCartao(
