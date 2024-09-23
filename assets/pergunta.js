@@ -17,7 +17,6 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
+    'Disney',
+    'Porque Rapunzel não podia sair da torre?',
+    'Por conta de seu cabelo que era magíco'
