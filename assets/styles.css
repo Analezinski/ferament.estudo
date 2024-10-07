@@ -1,7 +1,7 @@
 :root {
-    --text-color: #57cc09;
-    --card-front-color: #224d81;
-    --card-back-color: #871eb8;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
@@ -61,7 +61,7 @@ body {
     font-weight: 700;
 }
 
-.cartao.active .cartao__conteudo {
+.cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
@@ -76,15 +76,6 @@ body {
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
 }
-
-
-
-
-
-
-
-
-
 
 
 
